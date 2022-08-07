@@ -12,4 +12,6 @@ public class HtmlTemplateConstant {
 
     public static final Pattern TOPIC_PATTERN = Pattern.compile("(#[\\u4e00-\\u9fa5_a-zA-Z0-9]+#)");
 
+
+
 }
