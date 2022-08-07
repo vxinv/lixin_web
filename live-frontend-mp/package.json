@@ -1,0 +1,28 @@
+{
+  "name": "live-frontend-mp",
+  "version": "1.0.0",
+  "description": "#### Description 前端 - 小程序",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "runh5": "npm run h5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/fanchaoo/live-frontend-mp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dcloudio/uni-helper-json": "^1.0.13",
+    "date-fns": "^2.14.0",
+    "uview-ui": "^2.0.31"
+  },
+  "devDependencies": {
+    "@types/html5plus": "^1.0.2",
+    "@types/uni-app": "^1.4.4",
+    "sass": "^1.54.0",
+    "sass-loader": "^13.0.2"
+  }
+}
